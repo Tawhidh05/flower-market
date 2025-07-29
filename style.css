@@ -2,3 +2,7 @@ body {
       font-family: 'Inter', sans-serif;
     }
 
+@theme {
+        --color-orange: #E95A08;
+      }
+
