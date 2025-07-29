@@ -2,6 +2,10 @@ body {
       font-family: 'Inter', sans-serif;
     }
 
+.noto {
+    font-family: 'noto', serif;
+}
+
 @theme {
         --color-orange: #E95A08;
       }
