@@ -12,3 +12,6 @@ body {
         --color-orange: #E95A08;
       }
 
+@media screen and (max-width >= 640px) {
+
+}
